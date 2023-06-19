@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="faffc0be-8273-4c86-8ade-f8241d52ad71" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Qw7W6RJq993rdSgTZbe4aWH0vc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/xamp/htdocs/rentacar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xamp\htdocs\amelia\assets\css" />
+      <recent name="D:\xamp\htdocs\amelia\app\views\templates" />
+      <recent name="D:\xamp\htdocs\amelia\app" />
+      <recent name="D:\xamp\htdocs\amelia\assets" />
+      <recent name="D:\xamp\htdocs\amelia\assets\css\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xamp\htdocs\amelia\app\views" />
+      <recent name="D:\xamp\htdocs\rental\app\views" />
+      <recent name="D:\xamp\htdocs\rental" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faffc0be-8273-4c86-8ade-f8241d52ad71" name="Changes" comment="" />
+      <created>1686252818565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686252818565</updated>
+      <workItem from="1686252819725" duration="1548000" />
+      <workItem from="1686408901434" duration="7162000" />
+      <workItem from="1686422599564" duration="8576000" />
+      <workItem from="1686433351074" duration="2763000" />
+      <workItem from="1686515737066" duration="3722000" />
+      <workItem from="1686603268944" duration="618000" />
+      <workItem from="1686674132611" duration="7815000" />
+      <workItem from="1686766146780" duration="14657000" />
+      <workItem from="1686824166098" duration="6404000" />
+      <workItem from="1686846025255" duration="2053000" />
+      <workItem from="1686853088921" duration="2924000" />
+      <workItem from="1686918536084" duration="9148000" />
+      <workItem from="1687120746099" duration="1011000" />
+      <workItem from="1687188781628" duration="12552000" />
+      <workItem from="1687213638634" duration="2008000" />
+      <workItem from="1687216244770" duration="744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
